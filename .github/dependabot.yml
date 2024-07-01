@@ -3,10 +3,10 @@ updates:
   - package-ecosystem: "maven"
     directory: "/"
     schedule:
-      interval: "monthly"
-      time: "02:00"
+      interval: "daily"
+      time: "03:30"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
       interval: "monthly"
-      time: "03:00"
+      time: "05:00"
